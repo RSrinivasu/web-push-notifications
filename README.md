@@ -1,2 +1,2 @@
 # web-push-notifications
-push notification server
+This push notification server application
