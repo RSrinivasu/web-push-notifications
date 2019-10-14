@@ -1,0 +1,25 @@
+{
+  "name": "web-push-notifications",
+  "version": "1.0.0",
+  "description": "This is a web-push-notifiction restful api.",
+  "main": "/v1/",
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/polyfill": "^7.6.0",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/register": "^7.6.2",
+    "express": "^4.17.1",
+    "fs-extra": "^7.0.1",
+    "mongoose": "^5.7.1",
+    "node-cron": "^2.0.3",
+    "q": "^1.5.1",
+    "web-push": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "author": "srinu",
+  "license": "ISC"
+}
