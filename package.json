@@ -10,7 +10,7 @@
     "@babel/register": "^7.6.2",
     "express": "^4.17.1",
     "fs-extra": "^7.0.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "node-cron": "^2.0.3",
     "q": "^1.5.1",
     "web-push": "^3.4.0"
